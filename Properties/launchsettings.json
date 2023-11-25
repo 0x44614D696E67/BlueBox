@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "BlueBox (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "BlueBox (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
